@@ -1,2 +1,2 @@
 # html-portifolio
-Created a Portifolio using HTML
+Created a Resume using Basic HTML Tags
